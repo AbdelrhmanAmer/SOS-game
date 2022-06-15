@@ -1,7 +1,11 @@
 # SOS-game
 two players game, who link between this three letters (SOS) will get a point until the table be filled 
 
--you can get SOS vertically, Horizontaly, digonaly
+Game Properties:
+- The player has the right to choose which letter gonna to play with(s) or (o)
+- you can get SOS vertically, Horizontaly, digonaly
+- who get a point will have the right to play again
+
 
 Game Algorithm:
 
